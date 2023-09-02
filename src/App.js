@@ -47,6 +47,13 @@ function App() {
       placeholder:"Confirm Password",
       label:"Confirm Password"
     },
+    {
+      id:6,
+      name:"confirmPassword",
+      type:"password",
+      placeholder:"Confirm Password",
+      label:"Confirm Password"
+    },
   ]
   // console.log(username);
   // const usernameRef = useRef();
